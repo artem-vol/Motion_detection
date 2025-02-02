@@ -10,7 +10,7 @@ git clone git@github.com:artem-vol/Motion_detection.git
 ## Usage
 - motion_detection.py runs motion detection using OpenCV library functions.
 - custom_motion_detection.py runs motion detection using native OpenCV function implementations in pure python.
-- Motion_tracker.py starts multiple tracking of objects that are previously detected by the algorithm. motion_detection.py.
+- - Motion_tracker.py starts multiple tracking of objects that are detected by the algorithm motion_detection.py.
   
 To change the video to which you want to apply this algorithm, change the line: ```video = cv2.VideoCapture(0)``` on ```video = cv2.VideoCapture('path/to/your/video.mp4')```.
 
