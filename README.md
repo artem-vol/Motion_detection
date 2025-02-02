@@ -15,6 +15,5 @@ git clone git@github.com:artem-vol/Motion_detection.git
 To change the video to which you want to apply this algorithm, change the line: ```video = cv2.VideoCapture(0)``` on ```video = cv2.VideoCapture('path/to/your/video.mp4')```.
 
 ## Examples
-https://github.com/user-attachments/assets/291881c6-dce9-4a99-8128-86eed68d3eb6
-
+https://github.com/user-attachments/assets/d8cc2572-1083-462b-bd81-f9be96ed4bd3
 
