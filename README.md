@@ -1,7 +1,7 @@
 # Motion detection
 ![GitHub top language](https://img.shields.io/github/languages/top/artem-vol/Motion_detection)
 
-A program for motion detection on video and the implementation of its own multiple object tracking.
+Motion detection and implementation of a proprietary algorithm for tracking multiple objects using classical algorithms.
 
 ## Installation
 ```
